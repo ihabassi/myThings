@@ -1,0 +1,2 @@
+[30-Mar-2016 12:42:24 Asia/Jerusalem] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/twentyth/public_html/IhabTests/myThings/api/data_update.php on line 14
+[30-Mar-2016 12:43:51 Asia/Jerusalem] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/twentyth/public_html/IhabTests/myThings/api/data_update.php on line 14
